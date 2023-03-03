@@ -1,0 +1,8 @@
+"Fallout Alabama"
+{
+	"base"		"helix"
+	"title"		"Fallout by CYBERPSYCHO"
+	"author"	"Крыжовник"
+	"category"	"rp"
+	"menusystem" "1"
+}
